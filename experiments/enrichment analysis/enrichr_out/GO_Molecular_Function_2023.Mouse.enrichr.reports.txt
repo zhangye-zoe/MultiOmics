@@ -1,0 +1,64 @@
+Gene_set	Term	Overlap	P-value	Adjusted P-value	Old P-value	Old Adjusted P-value	Odds Ratio	Combined Score	Genes
+GO_Molecular_Function_2023	Transmitter-Gated Monoatomic Ion Channel Activity (GO:0022824)	4/40	5.200646e-08	3.276407e-06	0	0	1.477407e+02	2.477893e+03	GABRA2;GRIN2A;GABRA5;GRIN2B
+GO_Molecular_Function_2023	Neurotransmitter Receptor Activity Involved In Regulation Of Postsynaptic Membrane Potential (GO:0099529)	3/21	9.562455e-07	2.670766e-05	0	0	2.079479e+02	2.882210e+03	GABRA2;GRIN2A;GRIN2B
+GO_Molecular_Function_2023	Ligand-Gated Monoatomic Ion Channel Activity (GO:0015276)	3/23	1.271793e-06	2.670766e-05	0	0	1.871344e+02	2.540365e+03	GABRA2;GABRA5;GRIN2B
+GO_Molecular_Function_2023	Transmitter-Gated Monoatomic Ion Channel Activity Involved In Regulation Of Postsynaptic Membrane Potential (GO:1904315)	3/34	4.269022e-06	6.723710e-05	0	0	1.206653e+02	1.491921e+03	GABRA2;GRIN2A;GRIN2B
+GO_Molecular_Function_2023	NMDA Glutamate Receptor Activity (GO:0004972)	2/7	1.790406e-05	2.255911e-04	0	0	4.700235e+02	5.137584e+03	GRIN2A;GRIN2B
+GO_Molecular_Function_2023	Chloride Channel Activity (GO:0005254)	3/64	2.919349e-05	2.681066e-04	0	0	6.122951e+01	6.393319e+02	GABRA2;GABRA5;SLC17A7
+GO_Molecular_Function_2023	Benzodiazepine Receptor Activity (GO:0008503)	2/9	3.065806e-05	2.681066e-04	0	0	3.356975e+02	3.488775e+03	GABRA2;GABRA5
+GO_Molecular_Function_2023	Ligand-Gated Monoatomic Ion Channel Activity Involved In Regulation Of Presynaptic Membrane Potential (GO:0099507)	2/10	3.830095e-05	2.681066e-04	0	0	2.937206e+02	2.987149e+03	GABRA5;GRIN2B
+GO_Molecular_Function_2023	Extracellular Ligand-Gated Monoatomic Ion Channel Activity (GO:0005230)	2/10	3.830095e-05	2.681066e-04	0	0	2.937206e+02	2.987149e+03	GABRA2;GABRA5
+GO_Molecular_Function_2023	GABA-gated Chloride Ion Channel Activity (GO:0022851)	2/12	5.611129e-05	3.535011e-04	0	0	2.349529e+02	2.299760e+03	GABRA2;GABRA5
+GO_Molecular_Function_2023	Inhibitory Extracellular Ligand-Gated Monoatomic Ion Channel Activity (GO:0005237)	2/13	6.627587e-05	3.795800e-04	0	0	2.135829e+02	2.055027e+03	GABRA2;GABRA5
+GO_Molecular_Function_2023	Syntaxin-1 Binding (GO:0017075)	2/16	1.017901e-04	4.932904e-04	0	0	1.677899e+02	1.542425e+03	SNAP25;SYT1
+GO_Molecular_Function_2023	Ionotropic Glutamate Receptor Activity (GO:0004970)	2/16	1.017901e-04	4.932904e-04	0	0	1.677899e+02	1.542425e+03	GRIN2A;GRIN2B
+GO_Molecular_Function_2023	Ligand-Gated Calcium Channel Activity (GO:0099604)	2/18	1.296356e-04	5.104403e-04	0	0	1.468015e+02	1.313988e+03	GRIN2A;GRIN2B
+GO_Molecular_Function_2023	Ligand-Gated Monoatomic Anion Channel Activity (GO:0099095)	2/18	1.296356e-04	5.104403e-04	0	0	1.468015e+02	1.313988e+03	GABRA2;GABRA5
+GO_Molecular_Function_2023	GABA-A Receptor Activity (GO:0004890)	2/18	1.296356e-04	5.104403e-04	0	0	1.468015e+02	1.313988e+03	GABRA2;GABRA5
+GO_Molecular_Function_2023	GABA Receptor Activity (GO:0016917)	2/21	1.776296e-04	6.582743e-04	0	0	1.236037e+02	1.067418e+03	GABRA2;GABRA5
+GO_Molecular_Function_2023	Lipoprotein Particle Receptor Binding (GO:0070325)	2/27	2.958889e-04	9.320501e-04	0	0	9.391059e+01	7.630730e+02	RELN;SYT1
+GO_Molecular_Function_2023	Voltage-Gated Monoatomic Ion Channel Activity (GO:0005244)	2/27	2.958889e-04	9.320501e-04	0	0	9.391059e+01	7.630730e+02	GRIN2A;GRIN2B
+GO_Molecular_Function_2023	Carboxy-Lyase Activity (GO:0016831)	2/27	2.958889e-04	9.320501e-04	0	0	9.391059e+01	7.630730e+02	GAD1;GAD2
+GO_Molecular_Function_2023	Inorganic Cation Transmembrane Transporter Activity (GO:0022890)	2/35	4.993126e-04	1.497938e-03	0	0	7.111586e+01	5.406426e+02	GRIN2A;GRIN2B
+GO_Molecular_Function_2023	Syntaxin Binding (GO:0019905)	2/53	1.144674e-03	3.277931e-03	0	0	4.597463e+01	3.113694e+02	SNAP25;SYT1
+GO_Molecular_Function_2023	Amyloid-Beta Binding (GO:0001540)	2/79	2.521966e-03	6.514628e-03	0	0	3.041100e+01	1.819404e+02	GRIN2A;GRIN2B
+GO_Molecular_Function_2023	Potassium Channel Activity (GO:0005267)	2/79	2.521966e-03	6.514628e-03	0	0	3.041100e+01	1.819404e+02	KCNC1;KCNK2
+GO_Molecular_Function_2023	Voltage-Gated Potassium Channel Activity (GO:0005249)	2/80	2.585170e-03	6.514628e-03	0	0	3.001961e+01	1.788557e+02	KCNC1;KCNK2
+GO_Molecular_Function_2023	Inorganic Phosphate Transmembrane Transporter Activity (GO:0005315)	1/7	6.631989e-03	1.606982e-02	0	0	1.849537e+02	9.277001e+02	SLC17A7
+GO_Molecular_Function_2023	Guanylate Kinase Activity (GO:0004385)	1/8	7.576012e-03	1.767736e-02	0	0	1.585238e+02	7.740350e+02	DLG2
+GO_Molecular_Function_2023	Glycine Binding (GO:0016594)	1/9	8.519186e-03	1.916817e-02	0	0	1.387014e+02	6.609724e+02	GRIN2B
+GO_Molecular_Function_2023	Outward Rectifier Potassium Channel Activity (GO:0015271)	1/10	9.461511e-03	2.055432e-02	0	0	1.232840e+02	5.745677e+02	KCNK2
+GO_Molecular_Function_2023	Sodium:Phosphate Symporter Activity (GO:0005436)	1/11	1.040299e-02	2.184627e-02	0	0	1.109500e+02	5.065602e+02	SLC17A7
+GO_Molecular_Function_2023	L-glutamate Transmembrane Transporter Activity (GO:0005313)	1/12	1.134362e-02	2.233274e-02	0	0	1.008586e+02	4.517557e+02	SLC17A7
+GO_Molecular_Function_2023	Potassium:Proton Antiporter Activity (GO:0015386)	1/12	1.134362e-02	2.233274e-02	0	0	1.008586e+02	4.517557e+02	SLC17A7
+GO_Molecular_Function_2023	Water Channel Activity (GO:0015250)	1/14	1.322233e-02	2.524264e-02	0	0	8.533333e+01	3.691390e+02	AQP4
+GO_Molecular_Function_2023	Acidic Amino Acid Transmembrane Transporter Activity (GO:0015172)	1/15	1.416042e-02	2.548876e-02	0	0	7.923413e+01	3.373238e+02	SLC17A7
+GO_Molecular_Function_2023	Potassium Ion Leak Channel Activity (GO:0022841)	1/15	1.416042e-02	2.548876e-02	0	0	7.923413e+01	3.373238e+02	KCNK2
+GO_Molecular_Function_2023	Water Transmembrane Transporter Activity (GO:0005372)	1/16	1.509767e-02	2.642092e-02	0	0	7.394815e+01	3.100805e+02	AQP4
+GO_Molecular_Function_2023	Solute:Potassium Antiporter Activity (GO:0022821)	1/17	1.603407e-02	2.672717e-02	0	0	6.932292e+01	2.865143e+02	SLC17A7
+GO_Molecular_Function_2023	Leak Channel Activity (GO:0022840)	1/18	1.696963e-02	2.672717e-02	0	0	6.524183e+01	2.659472e+02	KCNK2
+GO_Molecular_Function_2023	Glutamate Receptor Binding (GO:0035254)	1/18	1.696963e-02	2.672717e-02	0	0	6.524183e+01	2.659472e+02	CAMK2A
+GO_Molecular_Function_2023	Nucleoside Monophosphate Kinase Activity (GO:0050145)	1/18	1.696963e-02	2.672717e-02	0	0	6.524183e+01	2.659472e+02	DLG2
+GO_Molecular_Function_2023	Metal Cation:Proton Antiporter Activity (GO:0051139)	1/21	1.977125e-02	3.038022e-02	0	0	5.544722e+01	2.175486e+02	SLC17A7
+GO_Molecular_Function_2023	Low-Density Lipoprotein Particle Receptor Binding (GO:0050750)	1/22	2.070345e-02	3.105517e-02	0	0	5.280423e+01	2.047460e+02	SYT1
+GO_Molecular_Function_2023	Calmodulin-Dependent Protein Kinase Activity (GO:0004683)	1/23	2.163480e-02	3.169749e-02	0	0	5.040152e+01	1.932118e+02	CAMK2A
+GO_Molecular_Function_2023	Delayed Rectifier Potassium Channel Activity (GO:0005251)	1/28	2.627899e-02	3.762673e-02	0	0	4.105761e+01	1.494081e+02	KCNC1
+GO_Molecular_Function_2023	Solute:Sodium Symporter Activity (GO:0015370)	1/34	3.182445e-02	4.455423e-02	0	0	3.358249e+01	1.157763e+02	SLC17A7
+GO_Molecular_Function_2023	Amino Acid Binding (GO:0016597)	1/36	3.366628e-02	4.610817e-02	0	0	3.166032e+01	1.073683e+02	GRIN2B
+GO_Molecular_Function_2023	Zinc Ion Binding (GO:0008270)	2/341	4.094755e-02	5.488715e-02	0	0	6.816589e+00	2.178216e+01	GRIN2A;GRIN2B
+GO_Molecular_Function_2023	Calcium-Dependent Phospholipid Binding (GO:0005544)	1/47	4.373716e-02	5.740502e-02	0	0	2.407609e+01	7.534749e+01	SYT1
+GO_Molecular_Function_2023	Channel Activity (GO:0015267)	1/52	4.828189e-02	6.197735e-02	0	0	2.171024e+01	6.579720e+01	AQP4
+GO_Molecular_Function_2023	Monoatomic Anion Channel Activity (GO:0005253)	1/53	4.918837e-02	6.197735e-02	0	0	2.129167e+01	6.413259e+01	SLC17A7
+GO_Molecular_Function_2023	Chloride Transmembrane Transporter Activity (GO:0015108)	1/55	5.099889e-02	6.299863e-02	0	0	2.050103e+01	6.101006e+01	SLC17A7
+GO_Molecular_Function_2023	L-amino Acid Transmembrane Transporter Activity (GO:0015179)	1/63	5.820837e-02	7.052168e-02	0	0	1.784857e+01	5.075644e+01	SLC17A7
+GO_Molecular_Function_2023	Transition Metal Ion Binding (GO:0046914)	2/456	6.871852e-02	8.144875e-02	0	0	5.060119e+00	1.354967e+01	GRIN2A;GRIN2B
+GO_Molecular_Function_2023	Voltage-Gated Monoatomic Cation Channel Activity (GO:0022843)	1/76	6.981321e-02	8.144875e-02	0	0	1.474519e+01	3.925068e+01	KCNC1
+GO_Molecular_Function_2023	Growth Factor Activity (GO:0008083)	1/85	7.776784e-02	8.907952e-02	0	0	1.315939e+01	3.360945e+01	BDNF
+GO_Molecular_Function_2023	Kinase Activity (GO:0016301)	1/106	9.607875e-02	1.080886e-01	0	0	1.051640e+01	2.463559e+01	CAMK2A
+GO_Molecular_Function_2023	Receptor Ligand Activity (GO:0048018)	1/319	2.633415e-01	2.910617e-01	0	0	3.435185e+00	4.583580e+00	BDNF
+GO_Molecular_Function_2023	Protein Serine/Threonine Kinase Activity (GO:0004674)	1/342	2.795348e-01	3.014564e-01	0	0	3.199739e+00	4.078479e+00	CAMK2A
+GO_Molecular_Function_2023	Calcium Ion Binding (GO:0005509)	1/346	2.823163e-01	3.014564e-01	0	0	3.161997e+00	3.999063e+00	SYT1
+GO_Molecular_Function_2023	Kinase Binding (GO:0019900)	1/460	3.574460e-01	3.753183e-01	0	0	2.362866e+00	2.430848e+00	DLG2
+GO_Molecular_Function_2023	Metal Ion Binding (GO:0046872)	1/521	3.945231e-01	4.074582e-01	0	0	2.079167e+00	1.933787e+00	SYT1
+GO_Molecular_Function_2023	Protein Homodimerization Activity (GO:0042803)	1/662	4.726208e-01	4.802437e-01	0	0	1.623802e+00	1.216978e+00	CAMK2A
+GO_Molecular_Function_2023	RNA Binding (GO:0003723)	1/1411	7.511061e-01	7.511061e-01	0	0	7.317179e-01	2.094238e-01	DCN
