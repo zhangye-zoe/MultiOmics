@@ -1,15 +1,37 @@
-# Multi-omics Experimental Design, Analysis, and Evaluation Metrics
+<p align="left">
+  <span style="font-size:18px; font-weight:bold; color:#2c3e50;">
+    Multi-omics Experimental Design and Data Analysis
+  </span>
+</p>
 
-This repository hosts a curated and continuously evolving collection of code, notes, and methodological templates for **multi-omics experimental design and data analysis**.  
-It covers a wide range of omics layers, including:
+<p>
+  <span style="color:#34495e;">
+    This repository hosts a curated and continuously evolving collection of code, notes, and methodological templates for
+    <strong style="color:#c0392b;">multi-omics experimental design and data analysis</strong>.
+    It covers a wide range of omics layers, including:
+  </span>
+</p>
 
-- **Genomics**
-- **Transcriptomics**
-- **Epigenomics** (ATAC-seq, ChIP-seq, methylation, chromatin accessibility)
-- **Proteomics**
-- **Metabolomics**
+<ul>
+  <li><strong style="color:#2980b9;">Genomics</strong></li>
+  <li><strong style="color:#27ae60;">Transcriptomics</strong></li>
+  <li><strong style="color:#8e44ad;">Epigenomics</strong>
+    <span style="color:#7f8c8d;"> (ATAC-seq, ChIP-seq, methylation, chromatin accessibility)</span>
+  </li>
+  <li><strong style="color:#d35400;">Proteomics</strong></li>
+  <li><strong style="color:#16a085;">Metabolomics</strong></li>
+</ul>
 
-The scripts and workflows in this repository are distilled from analytical strategies used in **recent high-impact studies** (e.g., Nature, Cell, Science), and are intended to serve as **reference implementations**, **learning materials**, and **practical utilities** for researchers working in multi-omics integration, benchmarking, and computational biology.
+<p>
+  <span style="color:#34495e;">
+    The scripts and workflows in this repository are distilled from analytical strategies used in
+    <strong style="color:#c0392b;">recent high-impact studies</strong>
+    (e.g., <em>Nature</em>, <em>Cell</em>, <em>Science</em>), and are intended to serve as
+    <strong>reference implementations</strong>, <strong>learning materials</strong>, and
+    <strong>practical utilities</strong> for researchers working in multi-omics integration, benchmarking, and computational biology.
+  </span>
+</p>
+
 
 ---
 
